@@ -1,0 +1,7 @@
+mode=drun
+prompt=type....
+hide_scroll=true
+width=35%
+height=50%
+location=center
+insensitive=true
