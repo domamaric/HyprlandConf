@@ -1,19 +1,16 @@
-# AwesomeWM Configuration
+# HyprlandDE
 
-This repository contains my personal configuration files for [AwesomeWM](https://awesomewm.org/), a highly configurable and extensible window manager for X11.
+This repository contains my personal configuration files for [Hyprland](https://hyprland.org/), a highly configurable wlroots-based Wayland compositor!
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## Introduction
 
-AwesomeWM is a dynamic window manager known for its flexibility and efficiency. This repository houses my customized configuration files, keybindings, and additional modules to enhance the AwesomeWM experience.
+Hyprland provides the latest Wayland features, is highly customizable, has all the eyecandy and the most powerful plugins. This repository houses my customized configuration files, keybindings, and additional modules to enhance the Hyprland usage experience.
 
 ## Features
 
@@ -25,11 +22,13 @@ AwesomeWM is a dynamic window manager known for its flexibility and efficiency. 
 
 ## Installation
 
-To use this AwesomeWM configuration, follow these steps:
+To use this Hyprland configuration, follow these steps:
 
-1. Ensure AwesomeWM is installed on your system.
-2. Clone this repository to your home directory or preferred location:
+1. Ensure Hyprland and its components are installed on your system.
+   ```bash
+   sudo pacman -S hyprland
+
+2. Clone this repository and position direcroty accordingly:
 
    ```bash
-   git clone https://github.com/your-username/awesome-wm-config.git ~/.config/awesome
-
+   git clone https://github.com/domamaric/HyprlandConf.git
